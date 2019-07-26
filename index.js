@@ -17,4 +17,5 @@ Function johnLennonFacts(facts){
   while (count < facts.length){
     results.push(facts[count] + '!!!'); count++;
   }
+  return results
 }
