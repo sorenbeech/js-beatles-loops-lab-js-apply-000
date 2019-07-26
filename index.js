@@ -7,3 +7,7 @@ Function theBeatlesPlay(musicians, instruments){
   }
   return newArr;
 }
+
+Function johnLennonFacts(){
+  const facts=[]
+}
