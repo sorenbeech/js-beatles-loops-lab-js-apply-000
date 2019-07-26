@@ -14,5 +14,5 @@ const facts=["He was the last Beatle to learn to drive",
 Function johnLennonFacts(facts){
   var results = [];
   var count = 0;
-  while count < results
+  while (count < facts.length)
 }
