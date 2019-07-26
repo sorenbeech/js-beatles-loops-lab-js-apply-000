@@ -1,3 +1,4 @@
+clear
 var = musicians["John Lennon", "Paul McCartney", "Ringo Star", "Geore Harrison"];
 var = instruments["guitar", "bass guitar", "drums", "lead guitar"];
 function theBeatlesPlay(musicians, instruments) {
