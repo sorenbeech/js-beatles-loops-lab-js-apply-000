@@ -13,6 +13,7 @@ const facts=["He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"];
 Function johnLennonFacts(facts){
   var results = [];
+  var counts = 0;
   
 while 
 }
