@@ -24,7 +24,7 @@ function iLoveTheBeatles(num) {
   var = arr[];
   do {
     arr.push("I Love The Beatles")
-    num++
+    num++;
   }
   
 }
